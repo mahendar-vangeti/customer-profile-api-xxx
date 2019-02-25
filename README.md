@@ -1,4 +1,4 @@
-# customer-profile
+# customer-profile-api
 This service offers API capabilities to be able to create and manage the profiles related to the external customers.
 At the moment we support CRETAE, UPDATE & DELETE operations on a customer profile.
 
